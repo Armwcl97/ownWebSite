@@ -18,7 +18,10 @@ function App() {
     </nav>
     <section id="welcome-section" class="welcome-section">
         <h1> Armando Colmenares </h1>
-        <p> Web fullstack developer.</p>
+        <div>
+        <p> Fullstack web developer.</p>
+        <p>Welcome to my Portfolio.</p>
+        </div>
     </section>
     <section id="projects" class="projects-section">
         <h2 class="projects-section-header">These are some of my projects</h2>
