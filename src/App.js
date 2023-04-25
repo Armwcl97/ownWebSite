@@ -19,7 +19,6 @@ function App() {
     <section id="welcome-section" class="welcome-section">
         <h1> Armando Colmenares </h1>
         <p> Web fullstack developer.</p>
-        <p>This is my own portfolio of projects that I've been creating and publishing along the way since 2023</p>
     </section>
     <section id="projects" class="projects-section">
         <h2 class="projects-section-header">These are some of my projects</h2>
