@@ -17,7 +17,7 @@ function App() {
         </ul>
     </nav>
     <section id="welcome-section" class="welcome-section">
-    <h1> Armando Colmenares </h1>
+        <h1> Armando Colmenares </h1>
         <p> Web fullstack developer.</p>
         <p> This is my own portfolio of projects that I've been creating and publishing along the way </p>
         <p> since 2023.</p>

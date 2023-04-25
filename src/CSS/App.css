@@ -164,6 +164,18 @@ img {
   color: var(--main-red);
 }
 
+@media (max-width:28.75em){
+  .welcome-section > p {
+    font-size: 3rem;
+    font-weight: 200;
+    font-style: italic;
+    color: var(--main-red);
+    justify-content: center;
+    align-items: center;
+    
+  }
+}
+
 
 /* Projects section */
 
