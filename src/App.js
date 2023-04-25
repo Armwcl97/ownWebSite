@@ -74,7 +74,7 @@ function App() {
                 </p>
             </a>
         </div>
-        <a href="" class="btn-show-all btn" target="_blank">
+        <a href="https://github.com/Armwcl97?tab=repositories" class="btn-show-all btn" target="_blank">
             Show all
             <i class="fas fa-chevron-right"></i>
         </a>
