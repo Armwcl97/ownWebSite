@@ -109,7 +109,7 @@ function App() {
             <a href="mailto:armandocolm11@gmail.com" target="_blank" class="btn contact-details">
                 <i class="fas fa-at">
                 </i>
-                Send a Mail
+                Mail me
             </a>
             <a href="tel:+58(424)129-4729" target="_blank" class="btn contact-details">
                 <i class="fas fa-mobile-alt">
