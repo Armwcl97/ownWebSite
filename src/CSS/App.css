@@ -166,13 +166,10 @@ img {
 
 @media (max-width:28.75em){
   .welcome-section > p {
-    font-size: 3rem;
-    font-weight: 200;
-    font-style: italic;
+    font-size: 4rem;
     color: var(--main-red);
     justify-content: center;
     align-items: center;
-    
   }
 }
 
